@@ -1,0 +1,21 @@
+.popup{
+    border: none;
+    background-color: #1E1D1F;
+    width: 450px;
+    height: 130px;
+}
+.h1{
+    margin-bottom:0px;
+    padding-top: 20px;
+    margin-left:20px;
+    font-family: Arial;
+    font-size: 33px;
+    font-weight: bold;
+    color: white; 
+}
+.h2{
+    margin-top:4px;
+    margin-left:20px;
+    font-family: Arial;
+    color: #535153;
+}

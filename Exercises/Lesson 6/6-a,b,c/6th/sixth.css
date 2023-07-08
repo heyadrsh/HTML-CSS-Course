@@ -1,0 +1,28 @@
+p{
+    font-family: Arial;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.price{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: grey;
+}
+.actual-price{
+    font-size: 25px;
+    color: black;
+}
+.price-change{
+    font-size: 14px;
+    margin-bottom: 6px;
+    color: green;
+}
+.price-change-after-a-hour{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: grey;
+}
+.change-in-percent{
+    color: red;
+}

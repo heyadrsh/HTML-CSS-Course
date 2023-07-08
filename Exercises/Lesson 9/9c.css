@@ -1,0 +1,14 @@
+.popup{
+    border: solid;
+    border-width: 1px;
+    border-color: grey;
+    width: 300px;
+    height: 100px;
+}
+.h1{
+    margin-left: 20px;
+    font-family: Arial;
+}
+.yes-button{
+    margin-left: 20px;
+}

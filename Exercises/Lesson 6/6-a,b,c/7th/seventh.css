@@ -1,0 +1,28 @@
+p{
+    font-family: Arial;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+.headline{
+    color:grey;
+}
+.website{
+    color: black;
+    font-weight: bold;
+}
+.line1{
+    line-height: 20px;
+    width: 550px;
+    margin-top:20px;
+    margin-bottom: 10px;
+
+}
+.line2{
+    margin-bottom: 20px;
+    margin-right: 255px;
+}
+.username{
+    color: #00CED1;
+}

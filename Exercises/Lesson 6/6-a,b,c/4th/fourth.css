@@ -1,0 +1,21 @@
+p{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.line1{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.line2{
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+.line3{
+    font-size: 12px;
+    color: #00CED1;
+    margin-bottom: 0px;
+    cursor: pointer;
+}

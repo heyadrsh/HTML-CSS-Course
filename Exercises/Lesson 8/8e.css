@@ -1,0 +1,38 @@
+.h1{
+    font-family: Arial;
+    font-size: 55px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+input{
+    height: 60px;
+    width: 530px;
+    border: none;
+    background-color: rgb(246, 246, 246);
+    font-size: 15px;
+    padding-left: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+.request-now-button,
+.request-later-button{
+    display: inline-block;
+}
+.request-now-button{
+    background-color: black;
+    color: white;
+    width: 180px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.request-later-button{
+    background-color: rgb(246, 246, 246);
+    color: black;
+    width: 200px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+}
