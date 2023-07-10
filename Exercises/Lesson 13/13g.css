@@ -1,0 +1,90 @@
+div{
+    font-family: Roboto, Arial;
+    line-height: 1.3;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    width: 
+}
+.user-profile{
+    width: 42px;
+    height: 42px;
+}
+
+.user-profile1{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 50%;
+}
+
+.tweet-info-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.user-name-username-container{
+    display: flex;
+    flex-direction: row;
+    width: 267px;
+    justify-content: space-between;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.username{
+    color: gray;
+}
+.tweet{
+    width: 345px;  
+}
+
+.link-container{
+    margin-top: 10px;
+    display:flex;
+    flex-direction: row;
+    width: 345px;
+    border-radius: 20px;
+    height: 80px;
+}
+
+.link-image-container{
+    width: 150px;
+    height: 80px;
+}
+
+.link-image{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.link-info-container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    justify-content: center;
+    margin-left: -14px;
+    border: solid;
+    border-width: 1px;
+    border-color: gray;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.link{
+    margin-left: 8px;
+    color: gray;
+    font-weight: 400;
+}
+
+.link-title{
+    margin-left: 8px;
+}

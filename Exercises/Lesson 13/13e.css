@@ -1,0 +1,86 @@
+div{
+    font-family: Robot, Arial;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.email-box{
+    border: none;
+    box-shadow: 0px 0px 3px #000000;
+    border-radius: 3px;
+    width: 320px;
+    padding-bottom: 20px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.all-inbox{
+    display: flex;
+    flex-direction: row;
+    font-size: 10.1px;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 12px;
+    font-weight: 530;
+}
+.mail-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 6px;
+}
+
+.mailer-profile{
+    width: 50px;
+    height: 50px;
+    margin-left: 11px;
+    margin-top: 15px;
+}
+
+.mailer-profile-icon{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.mail-info{
+    margin-top: 12px;
+    margin-left: 6px; 
+}
+.name-time-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+}
+
+.mailer-name{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.mail-time{
+    font-size: 12px;
+    color: gray;
+}
+
+.subject-message-info{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.subject-info{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.message-info{
+    font-size: 12px;
+    color: gray;
+    margin-top: 3px;;
+}

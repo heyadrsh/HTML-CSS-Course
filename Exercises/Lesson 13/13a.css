@@ -1,0 +1,30 @@
+.div1{
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.div2{
+    background-color: lightpink;
+    flex: 1;
+    height: 100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.p1{
+    background-color: black;
+    color: white;
+    height: 17px;
+    margin-top:19px;
+}
+
+.div3{
+    background-color: lightblue;
+    width: 300px;
+    height: 100%;
+}
