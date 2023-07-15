@@ -32,5 +32,3 @@ The course I took by Simon (SuperSimpleDev) can be found on YouTube. You can acc
 I would like to express my gratitude to Simon (SuperSimpleDev) for creating and sharing this valuable course. The knowledge and skills I gained through this course have been instrumental in my journey as a web developer.
 
 Thank you, Simon, for your dedication and commitment to teaching others the wonders of HTML and CSS!
-
----

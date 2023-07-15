@@ -82,6 +82,8 @@
 
 .channel-picture-container {
   position: relative;
+  width: 36px;
+  height: 36px;
 }
 
 .channel-picture-container .tooltip{
